@@ -3,3 +3,7 @@ This is the lazy way to install a web server on Linux. This is a simple .sh scri
 
 # How to download
 Just clone this repo using the green clone button. Once downloaded, you may need to run chmod +x *.sh
+
+
+# Credits
+I wrote the .sh script, but the apache2 web server and mysql server are not. The credit for those programs go to the respected owners. This is just the easy way to install and setup a basic web server.
